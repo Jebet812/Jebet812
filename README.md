@@ -1,5 +1,5 @@
 # 💫 Hey, Jebet here!<br>
-☁️ Cloud Engineer and Data Analyst creating innovative solutions with cloud and data technologies<br>🚀Working on projects involving AWS (EC2, S3, IAM, Lambda), Amazon Redshift, AWS Glue, Power BI, and Python automation<br>🤝 Thriving in collaborative environments and always eager to connect, share knowledge, and learn from others<br>💡 Dreaming of a future where tech meets purpose, and using it to uplift communities
+☁️Cloud Engineer and Data Analyst creating innovative solutions with cloud and data technologies<br>🚀Working on projects involving AWS (EC2, S3, IAM, Lambda), Amazon Redshift, AWS Glue, Power BI, and Python automation<br>🤝 Thriving in collaborative environments and always eager to connect, share knowledge, and learn from others<br>💡 Dreaming of a future where tech meets purpose, and using it to uplift communities
 
 
 # 💻 Tech Stack:
